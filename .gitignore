@@ -1,0 +1,6 @@
+# Environments
+.env
+config.yaml
+authentication/hashed_pw.pkl
+authentication/__pycache__
+tutorial/__pycache__
